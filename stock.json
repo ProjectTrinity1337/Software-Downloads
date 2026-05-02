@@ -1,25 +1,56 @@
 {
   "disney": [
-    "disneyuser1@example.com:password123",
-    "disneyuser2@example.com:pass456"
+    "disney+user1@example.com:DisneyPass123",
+    "disney+user2@example.com:MickeyMouse456",
+    "disney+test3@example.com:Goofy789",
+    "disney+premium4@example.com:StarWars321"
   ],
   "crunchyroll": [
-    "animefan:crunchypass123",
-    "otaku:weebpass"
+    "animefan:CrunchyPass123",
+    "otaku_king:AnimeLover456",
+    "naruto_sasuke:Ramen789",
+    "weeb_master:SubOverDub321"
   ],
   "dazn": [
-    "sportsfan@email.com:sportspass"
+    "soccerfan@email.com:GoalPass123",
+    "boxinglover@email.com:FightNight456",
+    "mma_fan@email.com:Knockout789",
+    "sports_betting@email.com:Touchdown321"
   ],
   "netflix": [
-    "netflixuser@email.com:netpass",
-    "binger@gmail.com:watchmovies"
+    "binge_watcher@netflix.com:StrangerThings123",
+    "movie_lover@netflix.com:OscarWinner456",
+    "series_addict@netflix.com:BreakingBad789",
+    "weekend_binger@netflix.com:NetAndChill321"
   ],
-  "paramount": [],
+  "paramount": [
+    "star_trek_fan@paramount.com:BeamMeUp123",
+    "yellowstone_viewer@paramount.com:DuttonRanch456",
+    "halo_gamer@paramount.com:MasterChief789",
+    "spongebob_lover@paramount.com:KrabbyPatty321"
+  ],
   "steam": [
-    "steamuser:steampass",
-    "gamer:steam123"
+    "gamer1:SteamPass123:gamer1@steam.com",
+    "pro_player:CS2Champ456:pro@steam.com",
+    "rpg_fan:OpenWorld789:rpgfan@steam.com",
+    "achievement_hunter:PlatinumTrophy321:hunter@steam.com"
   ],
-  "expressvpn": [],
-  "nba": [],
-  "wondershare": []
+  "expressvpn": [
+    "privacy_user1:SecureVPN123",
+    "traveler_usa:USAHighSpeed456",
+    "streaming_fan:UnblockNetflix789",
+    "security_minded:ZeroLogs321"
+  ],
+  "nba": [
+    "lakers_fan:LebronMVP123",
+    "warriors_supporter:Curry30_456",
+    "bulls_legend:JordanGOAT789",
+    "knicks_loyal:MSGHome321"
+  ],
+  "wondershare": [
+    "editing_guru:FilmoraPro123",
+    "pdf_expert:ConvertPDF456",
+    "recovery_user:DataRescue789",
+    "transcriber:AudioToText321"
+  ]
 }
