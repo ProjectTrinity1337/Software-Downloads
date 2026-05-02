@@ -1,0 +1,11 @@
+{
+  "disney": ["user1@email.com:pass123", "user2@email.com:pass456"],
+  "crunchyroll": ["animefan:password123"],
+  "dazn": [],
+  "netflix": ["netflixuser@email.com:netpass"],
+  "paramount": [],
+  "steam": ["steamuser:steampass"],
+  "expressvpn": [],
+  "nba": [],
+  "wondershare": []
+}
