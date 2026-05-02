@@ -1,10 +1,24 @@
 {
-  "disney": ["user1@email.com:pass123", "user2@email.com:pass456"],
-  "crunchyroll": ["animefan:password123"],
-  "dazn": [],
-  "netflix": ["netflixuser@email.com:netpass"],
+  "disney": [
+    "disneyuser1@example.com:password123",
+    "disneyuser2@example.com:pass456"
+  ],
+  "crunchyroll": [
+    "animefan:crunchypass123",
+    "otaku:weebpass"
+  ],
+  "dazn": [
+    "sportsfan@email.com:sportspass"
+  ],
+  "netflix": [
+    "netflixuser@email.com:netpass",
+    "binger@gmail.com:watchmovies"
+  ],
   "paramount": [],
-  "steam": ["steamuser:steampass"],
+  "steam": [
+    "steamuser:steampass",
+    "gamer:steam123"
+  ],
   "expressvpn": [],
   "nba": [],
   "wondershare": []
